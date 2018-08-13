@@ -1,0 +1,6 @@
+* [Installation](#Installation)
+* [Configuration](#Configuration)
+* [API](#API)
+* [FAQ](#frequently-asked-questions)
+* [Changelog](#Changelog)
+* [Support](#Support)
